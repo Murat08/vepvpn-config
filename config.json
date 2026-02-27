@@ -1,0 +1,8 @@
+{"master":"http://85.239.41.73:3000","token":"vepvpn_secret_2024"}
+```
+
+4. Нажми зелёную кнопку **Commit changes** (справа сверху или внизу)
+
+Всё. Твой URL для приложения будет:
+```
+https://raw.githubusercontent.com/Murat08/vepvpn-config/main/config.json
